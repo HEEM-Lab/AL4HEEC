@@ -1,0 +1,12 @@
+# .gitignore file
+
+__pycache__
+acatal/test/ase
+acatal/test/*.log
+acatal/test/*.traj
+acatal/test/*.csv
+acatal/test/*.CSV
+acatal/test/*.txt
+POSCAR_*
+*.csv
+high_throughput_prediction
